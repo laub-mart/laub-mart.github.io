@@ -1,1 +1,3 @@
 # True Detective: Rust Cohle
+
+Rust Cohle is one of the two main characters in the series "true detective". Together with Martin Hart, played by Woody Harrelson, they solve a mysterious crime. The series is located in the Louisiana countryside, and has a very dark and thrilling atmosphere.
