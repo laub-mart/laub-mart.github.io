@@ -9,3 +9,7 @@ Rust Cohle is one of the two main characters in the series "true detective". Tog
 * stubborn
 * honest
 * dedicated
+
+
+> Look. I consider myself a realist, all right, but
+> in philosophical terms, i'm what's called a pessimist.
