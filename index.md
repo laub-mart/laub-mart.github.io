@@ -13,3 +13,5 @@ Rust Cohle is one of the two main characters in the series "true detective". Tog
 
 > Look. I consider myself a realist, all right, but
 > in philosophical terms, i'm what's called a pessimist.
+
+<img src = "https://www.hbo.com/content/dam/hbodata/series/true-detective/episodes/01/01/episode-01-02-1920.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg"/>
